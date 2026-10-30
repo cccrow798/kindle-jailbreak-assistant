@@ -1,7 +1,7 @@
 ---
-name: kindle-jailbreak-assistant
-display_name: Kindle 越狱与微信读书全流程助手
-display_name_en: Kindle Jailbreak & WeRead Assistant
+name: kindle-weread-unlocker
+display_name: 墨水屏自由读：Kindle 越狱装微信读书
+display_name_en: E-ink Freedom: Kindle Jailbreak for WeRead
 category: 效率工具
 version: 1.1.0
 author: 白马非马（基于韦新锋 v1.0.x 增强更新）
