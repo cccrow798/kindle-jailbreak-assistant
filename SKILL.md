@@ -1,7 +1,7 @@
 ---
 name: kindle-jailbreak-assistant
-display_name: Kindle 刷机助手
-display_name_en: Kindle Jailbreak Assistant
+display_name: Kindle 越狱与微信读书全流程助手
+display_name_en: Kindle Jailbreak & WeRead Assistant
 category: 效率工具
 version: 1.1.0
 author: 白马非马（基于韦新锋 v1.0.x 增强更新）
