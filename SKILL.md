@@ -1,13 +1,13 @@
 ---
 name: kindle-weread-unlocker
-display_name: 墨水屏自由读：Kindle 越狱装微信读书
-display_name_en: E-ink Freedom: Kindle Jailbreak for WeRead
-category: 效率工具
-version: 1.1.0
-author: 白马非马（基于韦新锋 v1.0.x 增强更新）
-description: Kindle 越狱与 KOReader 全流程助手。当用户想给自己的 Kindle 越狱、装 KOReader、装微信读书（觅阅插件）、换词典、把 AZW3/KFX 转成可读格式，或排查越狱后的问题（书不显示、设备卡顿、启动失败、kpkg 装不上）时使用。覆盖机型与固件判定、WinterBreak2/WinterBreak/SpringBreak 越狱方式选择、KPM 包离线安装、StarDict 词典部署、AZW3 转 EPUB、设备清理与性能归因。触发词：Kindle 越狱、Kindle 刷机、jailbreak、WinterBreak、KOReader、kpm、kpkg、微信读书、觅阅、azw3 转 epub、Kindle 卡顿、Kindle 变砖。
-description_zh: 面向 Kindle 用户的一站式越狱与增强助手：先判定机型与固件选出正确的越狱方式，再完成越狱、持久化、离线安装 KOReader 与插件（含微信读书）、部署词典、转换电子书格式、清理设备并归因性能问题，全流程附带可执行脚本与验收标准。
-description_en: An end-to-end Kindle jailbreak and enhancement assistant. It identifies the device model and firmware to pick the right jailbreak path, then performs jailbreak, persistence, offline KOReader and plugin installation (including WeRead), dictionary deployment, ebook format conversion, device cleanup, and performance root-causing, with runnable scripts and acceptance checks.
+display_name: "墨水屏自由读：Kindle 越狱装微信读书"
+display_name_en: "E-ink Freedom: Kindle Jailbreak for WeRead"
+category: "效率工具"
+version: "1.1.0"
+author: "白马非马（基于韦新锋 v1.0.x 增强更新）"
+description: "Kindle 越狱与 KOReader 全流程助手。当用户想给自己的 Kindle 越狱、装 KOReader、装微信读书（觅阅插件）、换词典、把 AZW3/KFX 转成可读格式，或排查越狱后的问题（书不显示、设备卡顿、启动失败、kpkg 装不上）时使用。覆盖机型与固件判定、WinterBreak2/WinterBreak/SpringBreak 越狱方式选择、KPM 包离线安装、StarDict 词典部署、AZW3 转 EPUB、设备清理与性能归因。触发词：Kindle 越狱、Kindle 刷机、jailbreak、WinterBreak、KOReader、kpm、kpkg、微信读书、觅阅、azw3 转 epub、Kindle 卡顿、Kindle 变砖。"
+description_zh: "面向 Kindle 用户的一站式越狱与增强助手：先判定机型与固件选出正确的越狱方式，再完成越狱、持久化、离线安装 KOReader 与插件（含微信读书）、部署词典、转换电子书格式、清理设备并归因性能问题，全流程附带可执行脚本与验收标准。"
+description_en: "An end-to-end Kindle jailbreak and enhancement assistant. It identifies the device model and firmware to pick the right jailbreak path, then performs jailbreak, persistence, offline KOReader and plugin installation (including WeRead), dictionary deployment, ebook format conversion, device cleanup, and performance root-causing, with runnable scripts and acceptance checks."
 agent_created: true
 ---
 
